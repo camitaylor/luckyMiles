@@ -1,0 +1,33 @@
+body {
+  background-image: url("trackLanes.jpg");
+}
+
+h1 {
+  font-size: 50px;
+  color: red;
+  padding-top: 200px;
+  padding-left: 90px;
+}
+
+#miles {
+  font-size: 25px;
+  color: red;
+  padding-left: 175px;
+}
+
+#arrows {
+  font-size: 25px;
+  color: red;
+  padding-left: 25px;
+  margin-right: 25px;
+}
+
+#feet {
+  font-size: 25px;
+  color: red;
+  padding-left: 25px;
+}
+
+#milesValue {
+  margin-left: 25px;
+}
